@@ -1,0 +1,8 @@
+# Pythonの仮想環境や一時ファイル
+venv/
+__pycache__/
+
+# PDFおよびExcelファイル（機密情報を含むためすべて除外）
+*.pdf
+*.xlsx
+*.xls
